@@ -2,5 +2,5 @@
 # returns the phrase
 
 def parrot(string = "Squawk!")
-  2.times puts "#{string}"
+    puts "#{string}"
 end
